@@ -68,7 +68,7 @@ Sets a user’s credit balance to the specified amount. User argument input logi
 ## 🖼️ Gallery
 
 <p align="left">
-  <img alt="Info Command" width="400" src="https://github.com/user-attachments/assets/c9941a08-961c-4336-af3a-e2eb53e8ce16"/>
-  <img width="356" height="103" alt="image" src="https://github.com/user-attachments/assets/c9156ed8-87ec-4220-8c51-63175c1755b6" />
+  <img alt="Info Command" width="300" src="https://github.com/user-attachments/assets/32317ef0-73d5-49a8-8536-e5be4a341b29" />
+  <img alt="Info Command" width="300" src="https://github.com/user-attachments/assets/22ece348-b26b-478e-b251-619de4e1dca8" />
   
 </p>
