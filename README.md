@@ -121,7 +121,7 @@ After running the main script, the bot should appear online in your Discord serv
 
 ### 📜 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+This project is licensed under the [**MIT License**](https://opensource.org/licenses/MIT).  
 You are free to use, modify, and distribute this project as permitted by the license.
 
 ![TubeDev](https://img.shields.io/badge/TubeDev--lime)
